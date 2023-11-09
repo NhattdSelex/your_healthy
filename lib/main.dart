@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:your_healthy/core/hive_config/hive_constants.dart';
+import 'package:your_healthy/core/hive_config/hive_config.dart';
 import 'package:your_healthy/di/di.dart';
 import 'package:your_healthy/utils/share_preference_utils.dart';
 

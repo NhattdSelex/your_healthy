@@ -1,5 +1,5 @@
 import 'package:hive/hive.dart';
-import 'package:your_healthy/core/hive_config/hive_config.dart';
+import 'package:your_healthy/core/hive_config/hive_constants.dart';
 
 part 'bmi_model.g.dart';
 
