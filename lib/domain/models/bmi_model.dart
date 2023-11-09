@@ -3,7 +3,7 @@ import 'package:your_healthy/core/hive_config/hive_config.dart';
 
 part 'bmi_model.g.dart';
 
-@HiveType(typeId: HiveConstants.bmiModel)
+@HiveType(typeId: HiveConstants.bmi)
 class BMIModel extends HiveObject {
   @override
   @HiveField(0)
